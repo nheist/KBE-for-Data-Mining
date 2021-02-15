@@ -19,4 +19,4 @@ To produce the embedding vectors and evaluate them on the mentioned Data Mining 
 - [DGL-KE](https://github.com/awslabs/dgl-ke) to train embedding vectors for Link Prediction approaches
 - [GEval](https://github.com/mariaangelapellegrino/Evaluation-Framework) to evaluate the generated embedding vectors on Data Mining tasks
 
-The provided notebook shows how to train the embedding vectors for the Link Prediction approaches using DGL-KE (alternatively, you can download the trained embedding vectors [here](http://data.dws.informatik.uni-mannheim.de/KBE-for-Data-Mining/)). The generated vectors then simply have to be run in GEval to produce the final evaluation results.
+The provided notebook shows how to generate the embedding vectors for the Link Prediction approaches using DGL-KE (alternatively, you can download the trained embedding vectors [here](http://data.dws.informatik.uni-mannheim.de/KBE-for-Data-Mining/)). The generated vectors then simply have to be run in GEval to produce the final evaluation results.
